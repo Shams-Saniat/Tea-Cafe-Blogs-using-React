@@ -103,8 +103,9 @@ The following libraries are used in this project:
 - **React**: UI library for building components.
 - **React Icons**: Provides the bookmark icon.
 - **PropTypes**: Used for type-checking props.
-  
-npm install react react-dom react-icons prop-types
 
+```
+npm install react react-dom react-icons prop-types
+```
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, create a branch, and submit a pull request.
